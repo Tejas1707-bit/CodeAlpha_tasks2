@@ -1,7 +1,7 @@
 # 📊 Advertising Sales Prediction – Linear Regression Project:-           
 
 This project applies **Linear Regression** to predict sales based on advertising spending across different channels (TV, Radio, and Newspaper). The dataset is analyzed and visualized using Python libraries, and the model is evaluated for performance using key regression metrics.
-
+        
 ---
 
 ## 📁 Files Included:-
